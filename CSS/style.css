@@ -13,3 +13,14 @@ hr {
 h1,h3 {
     color: rgb(95, 25, 161);
 }
+
+.pratik:hover {
+background-color: rgb(61, 1, 87);
+width: 85px;
+}
+h1:hover,h3:hover {
+color: rgb(240, 9, 78);
+}
+#change {
+    color: rgb(131, 18, 97);
+}
